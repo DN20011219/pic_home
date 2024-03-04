@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T07:24:48.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="a4-BNkCeaVwTstEBG2Ul" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T07:34:22.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="oORrd_H49xJSvQBVF24e" version="24.0.1" type="github">
   <diagram name="第 1 页" id="EGq3E5vETspPLSR2VidJ">
     <mxGraphModel dx="1816" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,14 +114,26 @@
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-39" value="半结构化数据&lt;div&gt;（Semi-Structed Data）&lt;/div&gt;&lt;div&gt;如XML、JSON、百科&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-645" y="-560" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-40" value="实体抽取" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-40" value="实体抽取&lt;div&gt;Entity Extraction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="-445" y="-550" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-41" value="关系抽取" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-41" value="关系抽取&lt;div&gt;Relation Extraction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="-445" y="-500" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-42" value="属性抽取" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="-443" y="-450" width="103" height="30" as="geometry" />
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-42" value="属性抽取&lt;div&gt;Attribute Extraction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="-447.16" y="-450" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-46" value="第三方知识图谱" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-285.28999999999996" y="-710" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-47" value="知识融合" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="-307.79" y="-610" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-48" value="关系抽取" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="-307.79" y="-560" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-49" value="属性抽取" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="-305.79" y="-510" width="103" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
