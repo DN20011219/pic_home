@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T07:16:38.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="C7mM2CL6CT1Cg5_8uemf" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T07:20:23.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ATrqD4WtlJSfqRBN8_No" version="24.0.1" type="github">
   <diagram name="第 1 页" id="EGq3E5vETspPLSR2VidJ">
     <mxGraphModel dx="1816" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,6 +104,15 @@
           <mxGeometry x="0.0596" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-37" value="结构化数据（Structed Data），如关系数据库" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-610" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-38" value="非结构化数据，如图片、音频、视频" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-560" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-39" value="半结构化数据，如XML、JSON、百科&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-510" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
