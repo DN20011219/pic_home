@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T06:04:38.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="fccJi3RPWhyHVrwBoFI3" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T06:05:37.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jzeE9Ud4VCngaUu8h1PD" version="24.0.1" type="github">
   <diagram name="第 1 页" id="EGq3E5vETspPLSR2VidJ">
     <mxGraphModel dx="1816" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="构成元素" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-535" y="-370" width="140" height="34" as="geometry" />
+          <mxGeometry x="-760" y="-323.99" width="580" height="34" as="geometry" />
         </mxCell>
         <mxCell id="3" value="节点" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-634.37" y="-289.99" width="49" height="34" as="geometry" />
+          <mxGeometry x="-760" y="-289.99" width="310" height="34" as="geometry" />
         </mxCell>
         <mxCell id="4" value="边" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-360" y="-290" width="92" height="34" as="geometry" />
+          <mxGeometry x="-450" y="-289.99" width="270" height="34" as="geometry" />
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-11" value="实体（entity）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-764.5" y="-209.99" width="90" height="34" as="geometry" />
@@ -28,26 +28,23 @@
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-15" value="关系（relation）" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-298" y="-210" width="117" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="-465" width="50" height="300" as="geometry" />
-        </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-634.05" y="-350.42" width="49.87" height="234.75" as="geometry" />
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-335.16" y="-310.21" width="49.87" height="154.32" as="geometry" />
         </mxCell>
-        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-21" value="模式层" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="-100" width="270" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-22" value="数据层" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-750" y="-100" width="300" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-24" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-F_Z9ekdY9hJIYS4DJG-11" target="P-F_Z9ekdY9hJIYS4DJG-22">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-560" y="-250" as="sourcePoint" />
             <mxPoint x="-400" y="-250" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-21" value="模式层" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="-100" width="270" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-22" value="数据层" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="-100" width="310" height="34" as="geometry" />
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-25" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-F_Z9ekdY9hJIYS4DJG-13" target="P-F_Z9ekdY9hJIYS4DJG-22">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -83,6 +80,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-35" value="逻辑架构" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-760" y="-66" width="580" height="34" as="geometry" />
+        </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-31" value="s" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="P-F_Z9ekdY9hJIYS4DJG-14" target="P-F_Z9ekdY9hJIYS4DJG-22">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-304" y="-90" as="sourcePoint" />
@@ -104,9 +104,6 @@
           <mxGeometry x="0.0596" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-35" value="逻辑架构" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-520" y="-34" width="140" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
