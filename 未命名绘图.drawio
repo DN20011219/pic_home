@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T05:50:09.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="j81G9ZeQrRijD2VrpiU2" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T06:00:32.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="RCdFhi4KVi1gp8PNVwYv" version="24.0.1" type="github">
   <diagram name="第 1 页" id="EGq3E5vETspPLSR2VidJ">
     <mxGraphModel dx="1816" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,10 +38,10 @@
           <mxGeometry x="-335.16" y="-310.21" width="49.87" height="154.32" as="geometry" />
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-21" value="模式层" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="-90" width="49" height="34" as="geometry" />
+          <mxGeometry x="-338.5" y="-100" width="49" height="34" as="geometry" />
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-22" value="数据层" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-384.16" y="-90" width="49" height="34" as="geometry" />
+          <mxGeometry x="-633.1800000000001" y="-100" width="49" height="34" as="geometry" />
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-24" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-F_Z9ekdY9hJIYS4DJG-11" target="P-F_Z9ekdY9hJIYS4DJG-22">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -53,6 +53,34 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-709" y="-166" as="sourcePoint" />
             <mxPoint x="-350" y="-80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-26" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-F_Z9ekdY9hJIYS4DJG-12" target="P-F_Z9ekdY9hJIYS4DJG-21">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-484" y="-166" as="sourcePoint" />
+            <mxPoint x="-599" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-27" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="P-F_Z9ekdY9hJIYS4DJG-21" target="P-F_Z9ekdY9hJIYS4DJG-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-200" y="-110" as="sourcePoint" />
+            <mxPoint x="-304" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-28" value="定义" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P-F_Z9ekdY9hJIYS4DJG-27">
+          <mxGeometry x="0.0596" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-29" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="P-F_Z9ekdY9hJIYS4DJG-21" target="P-F_Z9ekdY9hJIYS4DJG-15">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-304" y="-90" as="sourcePoint" />
+            <mxPoint x="-361" y="-166" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-30" value="定义" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P-F_Z9ekdY9hJIYS4DJG-29">
+          <mxGeometry x="0.0596" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
