@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T07:37:16.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="E-JRQw0leDJxTX1io9jz" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T07:39:43.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="YRj2Qo5fAe2yDWxUJxYu" version="24.0.1" type="github">
   <diagram name="第 1 页" id="EGq3E5vETspPLSR2VidJ">
     <mxGraphModel dx="1816" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,25 +115,25 @@
           <mxGeometry x="-645" y="-560" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-40" value="实体抽取&lt;div&gt;Entity Extraction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="-445" y="-550" width="105" height="40" as="geometry" />
+          <mxGeometry x="-457.84" y="-550" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-41" value="关系抽取&lt;div&gt;Relation Extraction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="-445" y="-500" width="105" height="40" as="geometry" />
+          <mxGeometry x="-457.84" y="-500" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-42" value="属性抽取&lt;div&gt;Attribute Extraction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="-447.16" y="-450" width="112" height="30" as="geometry" />
+          <mxGeometry x="-460" y="-450" width="112" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-46" value="第三方知识图谱" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-285.28999999999996" y="-710" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-47" value="知识融合&lt;div&gt;Knowledge Fusion&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="-307.79" y="-610" width="105" height="40" as="geometry" />
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-47" value="知识融合&lt;div&gt;Knowledge Fusion&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="-307" y="-610" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-48" value="指代消解&lt;div&gt;Coreference Resolution&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-48" value="指代消解&lt;div&gt;Coreference Resolution&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="-307.79" y="-530" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-49" value="实体消歧&lt;div&gt;Entity Disambiguation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="-307.79" y="-480" width="105.79" height="50" as="geometry" />
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-49" value="实体消歧&lt;div&gt;Entity Disambiguation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="-308.18" y="-480" width="105.79" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
