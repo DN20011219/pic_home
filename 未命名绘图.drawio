@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T07:39:43.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="YRj2Qo5fAe2yDWxUJxYu" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T07:44:51.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="zjNU4Kz-ftaqXIi1kfvN" version="24.0.1" type="github">
   <diagram name="第 1 页" id="EGq3E5vETspPLSR2VidJ">
     <mxGraphModel dx="1816" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,19 +109,19 @@
           <mxGeometry x="-640" y="-610" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-38" value="非结构化数据&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（Unstructed Data）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;如图片、音频、视频&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="-500" width="130" height="50" as="geometry" />
+          <mxGeometry x="-640" y="-495" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-39" value="半结构化数据&lt;div&gt;（Semi-Structed Data）&lt;/div&gt;&lt;div&gt;如XML、JSON、百科&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-645" y="-560" width="140" height="50" as="geometry" />
+          <mxGeometry x="-650" y="-550" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-40" value="实体抽取&lt;div&gt;Entity Extraction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="-457.84" y="-550" width="105" height="40" as="geometry" />
+          <mxGeometry x="-447.84" y="-550" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-41" value="关系抽取&lt;div&gt;Relation Extraction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="-457.84" y="-500" width="105" height="40" as="geometry" />
+          <mxGeometry x="-447.84" y="-500" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-42" value="属性抽取&lt;div&gt;Attribute Extraction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="-450" width="112" height="30" as="geometry" />
+          <mxGeometry x="-451.34" y="-450" width="112" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-46" value="第三方知识图谱" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-285.28999999999996" y="-710" width="60" height="60" as="geometry" />
@@ -134,6 +134,30 @@
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-49" value="实体消歧&lt;div&gt;Entity Disambiguation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="-308.18" y="-480" width="105.79" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-50" value="知识推理&lt;div&gt;Knowledge Inference&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-158.82" y="-610" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-51" value="质量评估&lt;div&gt;Quality Evaluation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-159.61" y="-530" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-52" value="本体抽取&lt;div&gt;Ontology Extraction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-480" width="105.79" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-53" value="知识图谱" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="5.684341886080802e-14" y="-560" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-54" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-F_Z9ekdY9hJIYS4DJG-37" target="P-F_Z9ekdY9hJIYS4DJG-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-400" y="-560" as="sourcePoint" />
+            <mxPoint x="-350" y="-610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-55" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-500" y="-500" as="sourcePoint" />
+            <mxPoint x="-460" y="-500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
