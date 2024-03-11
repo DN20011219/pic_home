@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T07:46:21.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="3C8zlQR6oHOtCWqcA2nb" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T07:51:57.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Axm-dkBox49IZCLU1qah" version="24.0.1" type="github">
   <diagram name="第 1 页" id="EGq3E5vETspPLSR2VidJ">
     <mxGraphModel dx="1695" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,6 +254,27 @@
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-89" value="事件知识图谱" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="190" y="-860" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-90" value="基础应用" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="311" y="-922.5" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-91" value="深层应用" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="311" y="-782.5" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-92" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;脚本事件预测（&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;Script Event Prediction&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%9F%BA%E7%A1%80%E5%BA%94%E7%94%A8%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dcenter%3BstrokeColor%3Dnone%3BfillColor%3D%23f5f5f5%3BfontColor%3D%23333333%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22335%22%20y%3D%22-940%22%20width%3D%22140%22%20height%3D%2255%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; font-size: 0px;&quot;&gt;&lt;font face=&quot;monospace&quot; color=&quot;rgba(0, 0, 0, 0)&quot;&gt;Script Event Prediction&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-967.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-93" value="&lt;div style=&quot;text-align: start;&quot;&gt;时间 KG 预测（Temporal KG Prediction）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-887.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-95" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;搜索&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="429" y="-800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-96" value="&lt;div style=&quot;text-align: start;&quot;&gt;问答&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="429" y="-760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-97" value="&lt;div style=&quot;text-align: start;&quot;&gt;推荐&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="429" y="-720" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
