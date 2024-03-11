@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T08:10:05.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="3ZqvC3q22kJQdF76eQfJ" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T08:10:10.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="gNw3NZ5NeuJDqQttpG9-" version="24.0.1" type="github">
   <diagram name="第 1 页" id="EGq3E5vETspPLSR2VidJ">
     <mxGraphModel dx="1695" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -311,9 +311,6 @@
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-110" value="&lt;div style=&quot;text-align: start;&quot;&gt;链接预测（link prediction）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="737" y="-930" width="90" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="P-F_Z9ekdY9hJIYS4DJG-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-F_Z9ekdY9hJIYS4DJG-111" target="P-F_Z9ekdY9hJIYS4DJG-114">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P-F_Z9ekdY9hJIYS4DJG-111" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;命名实体识别(&lt;/span&gt;NER)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="737" y="-885" width="90" height="45" as="geometry" />
