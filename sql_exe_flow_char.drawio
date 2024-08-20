@@ -1219,7 +1219,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="374PVwt3UL4ZoYObyv3b-188" value="exclusive queue id：1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="185" width="60" height="55" as="geometry" />
+          <mxGeometry x="1710" y="180" width="60" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
